@@ -1,0 +1,17 @@
+{
+	"name": "cn.zoul.zoulibunity",
+	"version": "0.0.1",
+	"displayName": "Zou Lib Unity",
+	"description": "This is a collection of scripts for creative coding with Unity",
+	"unity": "2021.3",
+	"keywords": [
+		"unity",
+		"script",
+		"creative"
+	],
+	"author": {
+		"name": "ZouLiang",
+		"email": "zouliang.cn@foxmail.com",
+		"url": "www.zoul.cn"
+	}
+}
